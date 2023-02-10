@@ -1,0 +1,38 @@
+
+.carousel{
+    width: 100%;
+
+}
+.carousel .control-dots {
+    bottom: 85px;
+   
+}
+.carousel .thumbs-wrapper {
+    margin:0px;
+}
+.bg_color{
+    background-color:#BFACE2;
+    padding: 25px 25px 10px 25px;
+    width: 100%;
+}
+.carousel .carousel-status {
+    display: none;
+  }
+  .carousel{
+    height: auto;
+  }
+  .carousel.carousel-slider{
+    height: auto;
+    width: 100% !important;
+  } 
+ 
+  .control-arrow{
+    display: none;
+  }
+  .carousel-root{
+    width:100%;
+  }
+
+
+ 
+ 
