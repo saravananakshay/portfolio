@@ -9,18 +9,18 @@
 }
 
 .title{
-    font-size: 7vw;
+    font-size: 6vw;
     color: white;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 .exp{
     color: white;
-    font-size: 3vw;
+    font-size: 16px;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 .desc{
      color: white;
-     font-size: 2vw;
+     font-size: 14px;
      font-family:Georgia, 'Times New Roman', Times, serif
 }
 .pos{

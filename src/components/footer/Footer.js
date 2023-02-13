@@ -20,6 +20,7 @@ const Footer = () => {
           <li className='icon-list'><a href='https://www.linkedin.com/in/saravanan-r-945a77113/'><i class="bi bi-linkedin"/></a></li>
           <li className='icon-list'><a href='https://twitter.com/23_saravanan'><i class="bi bi-twitter"/></a></li>
           <li className='icon-list'><a href='https://www.facebook.com/sar.van.18'><i class="bi bi-facebook"/></a></li>
+          <li className='icon-list'><a href='https://github.com/saravananakshay'><i class="bi bi-github"/></a></li>
         </ul>
         </Col>
       </Row>

@@ -44,7 +44,11 @@ return (
         </div>
         </Col>
         <Col lg={6} xs={12}>
-           <p className='mt-2'>Change the underlying component CSS base class name and modifier class names prefix. This is an escape hatch for working with heavily customized bootstrap css.</p>
+           <p className='mt-2' style={{color:'white'}}>These are the sample screen for an e-commerce application for the third party b2b company.</p>
+           <p style={{color:'white'}}>My role - my role is to develop an ui for the product screen, Filter screen, profile account and small ui screen</p>
+           <p style={{color:'white'}}>Team size - 12</p>
+           <p style={{color:'white'}}>Front-end - React, Bootstrap, ES6 </p>
+           <p style={{color:'white'}}>Back-end - Node, Express, GraphQL, </p>
         </Col>
         </Row>
          
@@ -57,25 +61,29 @@ return (
              <div className="d-flex mt-3 mb-5" style={{height:"auto"}}>
                 <Carousel onChange={onChange} onClickItem={onClickItem}  width={"40%"} height={"40%"} autoPlay interval="1000" showThumbs={false}>
                         <div>
-                            <img src="./asset/card.jpg" alt="File not found" width="50%px" />
+                            <img src="./asset/prop1.jpg" alt="File not found" width="50%px" />
                         </div>
                         <div>
-                            <img src="./asset/payment.jpg" alt="File not found" width="50%"/>
+                            <img src="./asset/prop2.jpg" alt="File not found" width="50%"/>
                         </div>
                         <div>
-                            <img src="./asset/view.jpg" alt="File not found" width="50%" />
+                            <img src="./asset/prop3.jpg" alt="File not found" width="50%" />
                         </div>
                         <div>
-                            <img src="/asset/form.jpg"  alt="File not found" width="50%"/>
+                            <img src="/asset/prop4.jpg"  alt="File not found" width="50%"/>
                         </div>
                         <div>
-                            <img src="/asset/size.jpg"  alt="File not found" width="50%"/>
+                            <img src="/asset/prop2.jpg"  alt="File not found" width="50%"/>
                         </div>
                 </Carousel>
             </div>
         </Col>
         <Col lg={6} xs={12}>
-            <p  className='mt-2'>Change the underlying component CSS base class name and modifier class names prefix. This is an escape hatch for working with heavily customized bootstrap css.</p>
+        <p className='mt-4' style={{color:'white'}}>These are the sample screen for an hotel application for our client</p>
+           <p style={{color:'white'}}>My role - My role is to develop an ui for list hotels, List rooms, Footer</p>
+           <p style={{color:'white'}}>Team size - 5</p>
+           <p style={{color:'white'}}>Front-end - React, w3-css, ES6 </p>
+           <p style={{color:'white'}}>Back-end - Node, Express, Mongodb </p>
         </Col>
         </Row>
   </div>   

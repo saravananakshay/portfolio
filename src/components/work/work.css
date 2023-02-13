@@ -26,12 +26,17 @@
     width: 100% !important;
   } 
  
-  .control-arrow{
-    display: none;
-  }
   .carousel-root{
     width:100%;
   }
+  .carousel .control-prev.control-arrow:before{
+    background-color: black;
+    color: black;
+  } 
+  .carousel .control-next.control-arrow:before{
+    background-color: black;
+    color: black;
+  } 
 
 
  

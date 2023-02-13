@@ -9,10 +9,10 @@ const Home = () => {
       <Container fluid >
        <Row className='align'>
           <Col lg={4} md={4} xs={10} className='p-4'>
-              <img src='./asset/avatar2.png' alt="avatar"/>
+              <img src='./asset/avatar2.png' alt="avatar" width={"350px"} height={"350px"}/>
           </Col>
           
-          <Col lg={8} md={8} xs={10} className='p-4'>
+          <Col lg={8} md={8} xs={10} className='p-4 justify-content-center mt-3'>
                 <span className='title'> Web Developer</span> <br/>
                 <a href="/asset/Cv-Saravanan.pdf" download={"myCV"}><input className='check ms-3' type="button" value="Hire me"/></a><br/>
                 <div className='mt-3 ms-3'>
