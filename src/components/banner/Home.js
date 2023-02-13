@@ -14,7 +14,7 @@ const Home = () => {
           
           <Col lg={8} md={8} xs={10} className='p-4 justify-content-center mt-3'>
                 <span className='title'> Web Developer</span> <br/>
-                <a href="/asset/Cv-Saravanan.pdf" download={"myCV"}><input className='check ms-3' type="button" value="Hire me"/></a><br/>
+                <a href="/asset/CV.pdf" download={"mycv"}><input className='check ms-3' type="button" value="Hire me"/></a><br/>
                 <div className='mt-3 ms-3'>
                     <span className='exp'>3</span> 
                     <span className='desc'>  years of experience in web development </span>
